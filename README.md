@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm currently a senior at Brigham Young University in Provo, Utah. I am studying Statistics with an emphasis in Applied Stats and Analytics. I am also working on a minor in Sociology. 
+I am putting my skills to use, and learning so much more, as an intern at Alegra Learning!
+
 <!--
 **ella-walker/ella-walker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
